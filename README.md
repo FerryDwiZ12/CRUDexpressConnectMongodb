@@ -8,7 +8,7 @@ npm install
 npm run start
 
 #mongoo collection
-users
+- users / use users
 
 #mongoo object
 - nama
